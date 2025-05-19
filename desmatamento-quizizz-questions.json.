@@ -1,0 +1,55 @@
+{
+  "quiz_title": "Quiz sobre Desmatamento",
+  "questions": [
+    {
+      "question": "O que é o desmatamento?",
+      "options": [
+        "A retirada da vegetação de uma área",
+        "A plantação de novas árvores",
+        "O uso de fertilizantes na floresta",
+        "O crescimento das florestas"
+      ],
+      "correct_answer": "A retirada da vegetação de uma área"
+    },
+    {
+      "question": "Qual é uma das principais causas do desmatamento no Brasil?",
+      "options": [
+        "Construção de arranha-céus",
+        "Expansão da agropecuária",
+        "Criação de reservas ambientais",
+        "Plantio de árvores nativas"
+      ],
+      "correct_answer": "Expansão da agropecuária"
+    },
+    {
+      "question": "Como o desmatamento afeta o clima?",
+      "options": [
+        "Reduz as chuvas",
+        "Melhora a qualidade do ar",
+        "Aumenta o número de árvores",
+        "Diminui o calor"
+      ],
+      "correct_answer": "Reduz as chuvas"
+    },
+    {
+      "question": "Qual grupo é diretamente afetado pela destruição das florestas?",
+      "options": [
+        "Empresários urbanos",
+        "Povos indígenas",
+        "Turistas estrangeiros",
+        "Moradores de grandes cidades"
+      ],
+      "correct_answer": "Povos indígenas"
+    },
+    {
+      "question": "Qual é uma consequência do desmatamento?",
+      "options": [
+        "Aumento da biodiversidade",
+        "Redução do solo fértil",
+        "Melhora no ciclo da água",
+        "Aumento da vegetação"
+      ],
+      "correct_answer": "Redução do solo fértil"
+    }
+  ]
+}
